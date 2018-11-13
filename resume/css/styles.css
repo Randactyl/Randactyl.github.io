@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* Hero Section */
+.hero_header {
+	color: #fff;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.hero {
+	padding-top: 75px;
+	padding-bottom: 75px;
+	background-image: url(../images/hero.png);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.light {
+	color: #717070;
+}
+.tagline {
+	text-align: center;
+	color: #fff;
+	margin-top: 4px;
+	font-weight: lighter;
+	text-transform: uppercase;
+}
+/* Content */
+.banner {
+	background-color: #2D9AB7;
+	height: 75px;
+}
+.parallax {
+	color: #fff;
+	text-align: left;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+.about {
+	padding-bottom: 25px;
+	background-color: #323232;
+}
+.about p,
+.about ul {
+	font-weight: lighter;
+	line-height: 25px;
+	color: #fff;
+}
+.mediaTitle {
+	font-style: italic;
+}
+.card {
+    background-color: #717070;
+}
+.card-header h5 a {
+	color: #fff;
+	text-decoration: none;
+}
+.card-body {
+    background-color: #323232;
+}

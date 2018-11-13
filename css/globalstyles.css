@@ -1,0 +1,38 @@
+/* Navigation */
+header {
+	width: 100%;
+	height: auto;
+	background-color: #52bad5;
+	border-bottom: 50px solid #2C9AB7;
+}
+.logo {
+	color: #fff;
+	font-weight: bold;
+	float: left;
+	margin-top: 15px;
+	margin-left: 25px;
+}
+header nav {
+	float: right;
+	text-align: right;
+	margin-top: 15px;
+	margin-right: 25px;
+}
+header nav ul {
+	list-style: none;
+	float: right;
+}
+header nav ul li {
+	float: left;
+	color: #fff;
+	text-align: right;
+	margin-right: 25px;
+	font-weight: bold;
+}
+header nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+header nav ul li:hover a {
+	color: #fff;
+}

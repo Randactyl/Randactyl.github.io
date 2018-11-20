@@ -1,4 +1,7 @@
 @charset "UTF-8";
+p, ul {
+    font-size: 18px;
+}
 /* Hero Section */
 .hero_header {
 	color: #fff;
